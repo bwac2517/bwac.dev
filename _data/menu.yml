@@ -7,12 +7,12 @@ entries:
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-- title: index
-  entries:
-    - title: *.bwac.dev ( <- You are here)
-      url: https://bwac.dev/
-    - title: gwaff.bwad.dev
-      url: https://gwaff.bwac.dev/
-      entries:
-        - title: repo
-          url: https://github.com/bwac2517/gwaff
+  - title: index
+    entries:
+      - title: *.bwac.dev ( <- You are here)
+        url: https://bwac.dev/
+      - title: gwaff.bwad.dev
+        url: https://gwaff.bwac.dev/
+        entries:
+          - title: repo
+            url: https://github.com/bwac2517/gwaff
