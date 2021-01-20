@@ -1,10 +1,29 @@
 entries:
+  - title: info
+    entries:
+      - title: github
+        url: https://github.com/bwac2517
+      - title: gwaff.bwac.dev
+        url: https://gwaff.bwac.dev/
+        entries:
+          - title: repo
+            url: https://github.com/bwac2517/gwaff
+
   - title: index
     entries:
-      - title: (You are here -> ) *.bwac.dev
+      - title: bwac.dev
         url: https://bwac.dev/
       - title: gwaff.bwac.dev
         url: https://gwaff.bwac.dev/
         entries:
           - title: repo
             url: https://github.com/bwac2517/gwaff
+      - title: redditbot.bwac.dev
+        url: https://redditbot.bwac.dev/
+          entries:
+            - title: top.gg
+              url: https://top.gg/bot/437439562386505730
+            - title: docs
+              url: https://bwac.gitbook.io/redditbot/
+              - entries: repo
+                url: https://github.com/RedditBot-Team/docs
