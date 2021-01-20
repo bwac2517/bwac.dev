@@ -10,7 +10,7 @@ entries:
 
   - title: index
     entries:
-      - title: *.bwac.dev
+      - title: (You are here -> ) *.bwac.dev
         url: https://bwac.dev/
       - title: gwaff.bwad.dev
         url: https://gwaff.bwac.dev/
