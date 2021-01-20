@@ -20,10 +20,11 @@ entries:
             url: https://github.com/bwac2517/gwaff
       - title: redditbot.bwac.dev
         url: https://redditbot.bwac.dev/
-          entries:
-            - title: top.gg
-              url: https://top.gg/bot/437439562386505730
-            - title: docs
-              url: https://bwac.gitbook.io/redditbot/
-              - entries: repo
+        entries:
+          - title: top.gg
+            url: https://top.gg/bot/437439562386505730
+          - title: docs
+            url: https://bwac.gitbook.io/redditbot/
+            entries:
+              - title: repo
                 url: https://github.com/RedditBot-Team/docs
